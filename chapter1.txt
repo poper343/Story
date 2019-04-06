@@ -1,0 +1,8 @@
+hello world!
+Well isn't it a nice day today
+
+
+
+
+
+Thank for using vim on this text editor, it makes my life so Easy
